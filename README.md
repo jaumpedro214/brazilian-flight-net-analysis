@@ -1,4 +1,4 @@
-# Impacto da pandemia na malha aérea brasileira
+# Análises sobre a malha aérea brasileira
 
 <center><img width="600" src="https://i.ibb.co/HqKS7H5/Brasil-Voos.png"></center>
 <center>
@@ -13,7 +13,7 @@ Os estudos realizados se encontram na pasta _analysis_
   
 > _Os estudos realizados neste repositório são de caráter puramente acadêmico_
   
-### Pandemia e Covid
+### Impacto da pandemia na malha aérea brasileira
   Com intuito de avaliar o impacto da pandemia na malha aérea brasileira, desenvolvemos análises matemáticas e estatísticas sobre os dados de voos brasileiros entre os anos de 2019 e 2020.
   
   Os códigos foram desenvolvidos utilizando Jupyter Notebook no Google Colab, e podem ser encontrados no arquivo `Avaliacao_e_visualizacao_malha_area_br.ipynb`.
